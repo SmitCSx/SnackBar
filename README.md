@@ -9,7 +9,7 @@ PURPOSE OF PROJECT: SnackBar is a simple Java program that simulates a snack bar
 ## HOW TO START THIS PROJECT:
 * The SnackBar class contains a main method that creates a new SnackBar object and runs it for a given number of time steps.
 
- */* The SnackBar class has the following fields:
+ * The SnackBar class has the following fields:
 
 * A Random object that is used to generate random numbers.
 * An array of strings containing the names of the different flavours of crisps.
