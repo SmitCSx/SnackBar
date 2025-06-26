@@ -22,5 +22,5 @@ PURPOSE OF PROJECT: SnackBar is a simple Java program that simulates a snack bar
 ## AUTHORS: Smit Chaudhari
 
 ## USER INSTRUCTIONS:
-    To add a penny you need to put ```new Penny()``` in the console, same goes for adding pack.
-    when starting an instance of SnackBar you need to put a string as flavour and put ```new SnackMachine(int num of pack you want, int price of 1 pack)```.
+ To add a penny you need to put ```new Penny()``` in the console, same goes for adding pack.
+when starting an instance of SnackBar you need to put a string as flavour and put ```new SnackMachine(int num of pack you want, int price of 1 pack)```.
